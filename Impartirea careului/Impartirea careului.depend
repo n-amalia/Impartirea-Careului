@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1671458125 source:d:\facultate\anul 1\semestrul 1\ip\proiect\impartirea careului\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<mmsystem.h>
+	<chrono>
+	<thread>
+
+1670421066 d:\facultate\anul 1\semestrul 1\ip\proiect\impartirea careului\functii.h
+	<cstdlib>
+	<cstring>
+
+1672052379 source:d:\facultate\anul 1\semestrul 1\introp\proiect\impartirea careului\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<mmsystem.h>
+	<chrono>
+	<thread>
+
